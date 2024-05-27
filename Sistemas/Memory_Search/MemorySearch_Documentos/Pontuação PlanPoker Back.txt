@@ -1,0 +1,18 @@
+back-End
+
+DOMAIN
+
+* Criar Model das Tabelas [5]
+
+CONTROLLERS
+
+* Criar Controller Login de autenticação no sistema [5]
+* Criar Controller Pesquisas de Imagem [5]
+* Criar Controller Pesquisas de pagina [5]
+* Criar Controller Pesquisas de Texto [5]
+* Criar Controller Usuario [5]
+* Criar Controller Configuracao [5]
+
+MAPPING
+
+*Mapeamento Banco de Dados e Core da aplicação [5]

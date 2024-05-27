@@ -1,0 +1,6 @@
+*Desenvolvimento troca sistema Legado
+*Informar  sobre tabelas do banco atual (30 a 60 gbtamanho)
+*Nossa opinicao sobre linkdserver (sqlserver)
+*Licenca (sqlserver)
+*Cogitar a publicacao externa da api custo para ultilizar sqlserver
+*Migrar tabelas para mysql ou postgress (dores)   

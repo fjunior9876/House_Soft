@@ -1,0 +1,12 @@
+* Motivo da reuniao
+* Apontar as limitacoes da ferramenta
+* Realizar apresentacao
+- Layout da pagina (titulo, Icone, Menu)
+- Forma de pesquisar (filtros e adicionar nova aba)
+- Opcao de selecionar o item para mostrar os detalhes
+- Botoes ACAO
+- Legenda
+ 
+* Final mostrar layout responsivo (celular)
+ 
+* Abrir para pergunta e aguardar as sujestoes
