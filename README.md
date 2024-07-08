@@ -11,7 +11,7 @@ API que trata a chamada das requisições do Teste aplicado pela Playmove.
 
 
 
-![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/088eb99d-f739-442d-891d-b3d12279a6af)
+![image](https://github.com/fjunior9876/Playmove/assets/94969208/088eb99d-f739-442d-891d-b3d12279a6af)
 
 ## BANCO DE DADOS
 
