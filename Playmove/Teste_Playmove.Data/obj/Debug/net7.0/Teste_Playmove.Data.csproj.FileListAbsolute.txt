@@ -1,0 +1,15 @@
+D:\Playmove\Teste_Playmove.Data\bin\Debug\net7.0\Teste_Playmove.Data.deps.json
+D:\Playmove\Teste_Playmove.Data\bin\Debug\net7.0\Teste_Playmove.Data.dll
+D:\Playmove\Teste_Playmove.Data\bin\Debug\net7.0\Teste_Playmove.Data.pdb
+D:\Playmove\Teste_Playmove.Data\bin\Debug\net7.0\Teste_Playmove.Domain.dll
+D:\Playmove\Teste_Playmove.Data\bin\Debug\net7.0\Teste_Playmove.Domain.pdb
+D:\Playmove\Teste_Playmove.Data\obj\Debug\net7.0\Teste_Playmove.Data.csproj.AssemblyReference.cache
+D:\Playmove\Teste_Playmove.Data\obj\Debug\net7.0\Teste_Playmove.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Playmove\Teste_Playmove.Data\obj\Debug\net7.0\Teste_Playmove.Data.AssemblyInfoInputs.cache
+D:\Playmove\Teste_Playmove.Data\obj\Debug\net7.0\Teste_Playmove.Data.AssemblyInfo.cs
+D:\Playmove\Teste_Playmove.Data\obj\Debug\net7.0\Teste_Playmove.Data.csproj.CoreCompileInputs.cache
+D:\Playmove\Teste_Playmove.Data\obj\Debug\net7.0\Teste_Playmove.Data.csproj.CopyComplete
+D:\Playmove\Teste_Playmove.Data\obj\Debug\net7.0\Teste_Playmove.Data.dll
+D:\Playmove\Teste_Playmove.Data\obj\Debug\net7.0\refint\Teste_Playmove.Data.dll
+D:\Playmove\Teste_Playmove.Data\obj\Debug\net7.0\Teste_Playmove.Data.pdb
+D:\Playmove\Teste_Playmove.Data\obj\Debug\net7.0\ref\Teste_Playmove.Data.dll
