@@ -7,7 +7,7 @@ API que trata a chamada das requisições do Teste aplicado pela Playmove.
 * Linguagem de Programação: C#
 * CORS: (appsettings.json)
 
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/efde41e1-b3b9-4b1c-a7a4-4cbddb316a77)
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/efde41e1-b3b9-4b1c-a7a4-4cbddb316a77)
 
 
 ![image](https://github.com/fjunior9876/Playmove/assets/94969208/088eb99d-f739-442d-891d-b3d12279a6af)
