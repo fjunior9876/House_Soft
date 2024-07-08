@@ -61,6 +61,7 @@ Retorna uma lista de todos os fornecedores cadastrados.
 Retorna um fornecedor específico com base no ID fornecido.
 
 * URL
+  
 ![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/07f7e857-0e84-4591-a2ad-6047dea6ec2a)
 
 
@@ -82,11 +83,13 @@ id (int): ID do fornecedor a ser obtido.
 Salva um novo fornecedor.
 
 * URL
-  ![image](https://github.com/fjunior9876/Playmove/assets/94969208/773ca813-3c7d-47b2-adf8-dfc51be5980b)
+  
+ ![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/fd635797-6536-43c8-b5f3-3f5f1d1ffd94)
 
 
 * Corpo da Requisição
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/f627c5ee-a50c-4378-9878-0c44cbb9df59)
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/2546277a-c29d-4ede-b893-1d9045dea32c)
+
 
 
 * Códigos de Resposta
@@ -100,14 +103,17 @@ Salva um novo fornecedor.
 Atualiza os dados de um fornecedor existente.
 
 * URL
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/405f6313-320a-4010-bc3d-827422a73626)
+  
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/3557fd51-4ece-4559-a956-cb64598514b6)
+
 
 * Parâmetros da Requisição
 
 id (int): ID do fornecedor a ser atualizado.
 
 * Corpo da Requisição
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/75fc96f1-8cba-42af-8f3b-306e55c95414)
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/b648c976-3059-4c2b-a994-e243ce70fd78)
+
 
 * Códigos de Resposta
 
@@ -119,7 +125,9 @@ id (int): ID do fornecedor a ser atualizado.
 Remove um fornecedor com base no ID fornecido.
 
 * URL
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/138bbb20-0940-4922-a2c5-aee5a332eb6f)
+  
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/dc136afa-a5af-4cad-b768-574b5312f47a)
+
 
 * Parâmetros da Requisição
   
@@ -139,7 +147,9 @@ ________________________________________________________________________________
 Retorna uma lista de todas empresas cadastradas.
 
 * URL
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/2af2b677-b473-4c4b-9a1c-f6a0cccdfe2c)
+  
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/1e5b080d-cf4c-4c5c-846d-251a6a12c2d1)
+
 
 * Códigos de Resposta
 
@@ -148,13 +158,16 @@ Retorna uma lista de todas empresas cadastradas.
 
 * Exemplo de Resposta
 
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/bebcb3a4-83bc-4398-a40d-7456091a96aa)
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/0e69b7f3-8d71-48e7-b98c-664a2c985d61)
+
 
 ## Obter Empresa por ID
 Retorna uma empresa específica com base no ID fornecido.
 
 * URL
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/8306cb97-69c6-4747-a3b3-c11b16544367)
+  
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/89696297-24f5-4d16-a813-46959256640b)
+
 
 * Parâmetros da Requisição
   
@@ -167,17 +180,21 @@ id (int): ID da empresa a ser obtida.
 500 Internal Server Error: Erro interno ao obter empresa.
 
 * Exemplo de Resposta
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/3fd754d0-524c-451f-a272-f84c357ee305)
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/5ce2d2e9-56ff-4554-a712-5c4fb884714e)
+
 
 ## Salvar Empresa
 Salva uma nova empresa.
 
 * URL
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/a9db909e-9072-491e-836d-f1bb36fd1d61)
+  
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/c94dd791-1c26-459e-92b6-eb61b8551d34)
+
 
 
 * Corpo da Requisição
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/fb50bbec-b2bf-473e-8f06-4af202c45202)
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/37c0dc9b-36f8-48e2-8a76-17e0ad7a41e1)
+
 
 
 * Códigos de Resposta
@@ -191,14 +208,17 @@ Salva uma nova empresa.
 Atualiza os dados de uma empresa existente.
 
 * URL
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/0be6e83c-22f6-4c81-9bc1-8d8004f26cfe)
+  
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/205bd592-ccfe-4aac-a699-6b977aa64c43)
+
 
 * Parâmetros da Requisição
 
 id (int): ID da empresa a ser atualizada.
 
 * Corpo da Requisição
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/878d27b6-adb7-4ebf-99d5-dd3336e0a062)
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/c033c83a-5343-4d04-bff2-81bd2100c087)
+
 
 * Códigos de Resposta
 
@@ -210,7 +230,9 @@ id (int): ID da empresa a ser atualizada.
 Remove uma empresa com base no ID fornecido.
 
 * URL
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/e694bb0d-6b64-423f-b15b-6fd08d83804e)
+  
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/c88b1edb-1073-41af-9b66-60351c38490a)
+
 
 * Parâmetros da Requisição
   
