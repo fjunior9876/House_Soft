@@ -29,7 +29,8 @@ API que trata a chamada das requisições do Teste aplicado pela Playmove.
 
 
 ### Fornecedores
-![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/d7b313bc-fd00-4c3f-9d16-968759238cdb)
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/4bd8f342-e22e-41e5-bd71-f3dc14311833)
+
 
 
 
@@ -41,7 +42,8 @@ ________________________________________________________________________________
 Retorna uma lista de todos os fornecedores cadastrados.
 
 * URL
-![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/d7b313bc-fd00-4c3f-9d16-968759238cdb)
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/7ad430d0-87b7-4408-979a-4980b3a8c17a)
+
 
 
 * Códigos de Resposta
@@ -51,14 +53,16 @@ Retorna uma lista de todos os fornecedores cadastrados.
 
 * Exemplo de Resposta
 
-![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/260e5234-ca27-4fcd-af48-6a4b65051435)
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/3d6efa9b-0240-43fa-b82e-6567b52dab8d)
+
 
 
 ## Obter Fornecedor por ID
 Retorna um fornecedor específico com base no ID fornecido.
 
 * URL
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/548c56fc-78e3-420f-b32a-7554d52a7184)
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/07f7e857-0e84-4591-a2ad-6047dea6ec2a)
+
 
 * Parâmetros da Requisição
   
@@ -71,7 +75,8 @@ id (int): ID do fornecedor a ser obtido.
 500 Internal Server Error: Erro interno ao obter fornecedor.
 
 * Exemplo de Resposta
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/827b7d67-6d62-430e-bc3a-73515967daf9)
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/6cbc33b3-d19c-44da-886f-a9327fb4bf6c)
+
 
 ## Salvar Fornecedor
 Salva um novo fornecedor.
