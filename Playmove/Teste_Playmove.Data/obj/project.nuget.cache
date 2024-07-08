@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "piu4Ewu2APvC54RSQZSpT+9LWqPzusAgpOlhxNQYNn+TkjfImlZlyvFmJGCWwrJ+ZOVFjXav8TQ487u9HY+l7w==",
+  "dgSpecHash": "njF8TVTWI35OzUFJyMDW0aLcXZDVJ5TgIm8E1xQKYJb3dmgPWxfidvO6eL78JojIHgw0iJ3YT0dXuR1WQ3QMUQ==",
   "success": true,
-  "projectFilePath": "D:\\Playmove\\Teste_Playmove.Data\\Teste_Playmove.Data.csproj",
+  "projectFilePath": "D:\\Teste_Playmove\\Playmove\\Playmove\\Teste_Playmove.Data\\Teste_Playmove.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fjunior\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\fjunior\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",

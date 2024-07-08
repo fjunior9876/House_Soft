@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VCKRXpCTgAK8Ir79jd4WHIsj1eJy08Mjb7tdUTefXfrmi/EEvefl+GUawq5HX34kibHvzfgvXiiqO2mw050Okw==",
+  "dgSpecHash": "VOLoBKCtvj8dGz4J+AI9mQZfVfr2JoJMemhP+13XyMEWx8X5hktrcIRtR7vzlByW4FK19YZ/eheZ+Hz4mWsdYQ==",
   "success": true,
-  "projectFilePath": "D:\\Playmove\\Teste_Playmove.Domain\\Teste_Playmove.Domain.csproj",
+  "projectFilePath": "D:\\Teste_Playmove\\Playmove\\Playmove\\Teste_Playmove.Domain\\Teste_Playmove.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

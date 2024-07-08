@@ -2932,11 +2932,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Playmove\\Teste_Playmove.Service\\Teste_Playmove.Service.csproj",
+      "projectUniqueName": "D:\\Teste_Playmove\\Playmove\\Playmove\\Teste_Playmove.Service\\Teste_Playmove.Service.csproj",
       "projectName": "Teste_Playmove.Service",
-      "projectPath": "D:\\Playmove\\Teste_Playmove.Service\\Teste_Playmove.Service.csproj",
+      "projectPath": "D:\\Teste_Playmove\\Playmove\\Playmove\\Teste_Playmove.Service\\Teste_Playmove.Service.csproj",
       "packagesPath": "C:\\Users\\fjunior\\.nuget\\packages\\",
-      "outputPath": "D:\\Playmove\\Teste_Playmove.Service\\obj\\",
+      "outputPath": "D:\\Teste_Playmove\\Playmove\\Playmove\\Teste_Playmove.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2956,11 +2956,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Playmove\\Teste_Playmove.Data\\Teste_Playmove.Data.csproj": {
-              "projectPath": "D:\\Playmove\\Teste_Playmove.Data\\Teste_Playmove.Data.csproj"
+            "D:\\Teste_Playmove\\Playmove\\Playmove\\Teste_Playmove.Data\\Teste_Playmove.Data.csproj": {
+              "projectPath": "D:\\Teste_Playmove\\Playmove\\Playmove\\Teste_Playmove.Data\\Teste_Playmove.Data.csproj"
             },
-            "D:\\Playmove\\Teste_Playmove.Domain\\Teste_Playmove.Domain.csproj": {
-              "projectPath": "D:\\Playmove\\Teste_Playmove.Domain\\Teste_Playmove.Domain.csproj"
+            "D:\\Teste_Playmove\\Playmove\\Playmove\\Teste_Playmove.Domain\\Teste_Playmove.Domain.csproj": {
+              "projectPath": "D:\\Teste_Playmove\\Playmove\\Playmove\\Teste_Playmove.Domain\\Teste_Playmove.Domain.csproj"
             }
           }
         }

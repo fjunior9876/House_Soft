@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Playmove\\Teste_Playmove.Domain\\Teste_Playmove.Domain.csproj",
+      "projectUniqueName": "D:\\Teste_Playmove\\Playmove\\Playmove\\Teste_Playmove.Domain\\Teste_Playmove.Domain.csproj",
       "projectName": "Teste_Playmove.Domain",
-      "projectPath": "D:\\Playmove\\Teste_Playmove.Domain\\Teste_Playmove.Domain.csproj",
+      "projectPath": "D:\\Teste_Playmove\\Playmove\\Playmove\\Teste_Playmove.Domain\\Teste_Playmove.Domain.csproj",
       "packagesPath": "C:\\Users\\fjunior\\.nuget\\packages\\",
-      "outputPath": "D:\\Playmove\\Teste_Playmove.Domain\\obj\\",
+      "outputPath": "D:\\Teste_Playmove\\Playmove\\Playmove\\Teste_Playmove.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
