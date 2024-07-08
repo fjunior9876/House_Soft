@@ -11,7 +11,8 @@ API que trata a chamada das requisições do Teste aplicado pela Playmove.
 
 
 
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/088eb99d-f739-442d-891d-b3d12279a6af)
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/81d41fc5-4073-4da6-a4fe-9b7a1ce6b1a7)
+
 
 ## BANCO DE DADOS
 
@@ -24,10 +25,12 @@ API que trata a chamada das requisições do Teste aplicado pela Playmove.
 ## SCRIPT CRIAÇÃO DO BANCO DE DADOS
 
 ### Empresas
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/c0cba818-a9be-485e-85a2-c27742bb372f)
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/af75d78e-4d58-4f07-a9d8-cd7755cee77f)
+
 
 ### Fornecedores
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/b8f84fe5-77e5-42f1-bbea-b63cfc17d869)
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/d7b313bc-fd00-4c3f-9d16-968759238cdb)
+
 
 
 ____________________________________________________________________________________________________
@@ -38,7 +41,7 @@ ________________________________________________________________________________
 Retorna uma lista de todos os fornecedores cadastrados.
 
 * URL
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/76b8a5d0-0175-4d2a-a924-91f2dede680c)
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/d7b313bc-fd00-4c3f-9d16-968759238cdb)
 
 
 * Códigos de Resposta
@@ -48,7 +51,8 @@ Retorna uma lista de todos os fornecedores cadastrados.
 
 * Exemplo de Resposta
 
-![image](https://github.com/fjunior9876/Playmove/assets/94969208/f503b23a-05cd-4385-9cc2-adb2c3896196)
+![image](https://github.com/fjunior9876/Teste_Playmove/assets/94969208/260e5234-ca27-4fcd-af48-6a4b65051435)
+
 
 ## Obter Fornecedor por ID
 Retorna um fornecedor específico com base no ID fornecido.
