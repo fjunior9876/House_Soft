@@ -1,7 +1,4 @@
-# API_Teste_Playmove
-
-API que trata a chamada das requisições do Teste aplicado pela Playmove.
-
+# API
 
 * Framework: .Net 7.0.402 
 * Linguagem de Programação: C#
