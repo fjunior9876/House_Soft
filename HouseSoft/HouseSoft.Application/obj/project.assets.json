@@ -3380,18 +3380,18 @@
     },
     "HouseSoft.Data/1.0.0": {
       "type": "project",
-      "path": "../Teste_Playmove.Data/HouseSoft.Data.csproj",
-      "msbuildProject": "../Teste_Playmove.Data/HouseSoft.Data.csproj"
+      "path": "../HouseSoft.Data/HouseSoft.Data.csproj",
+      "msbuildProject": "../HouseSoft.Data/HouseSoft.Data.csproj"
     },
     "HouseSoft.Domain/1.0.0": {
       "type": "project",
-      "path": "../Teste_Playmove.Domain/HouseSoft.Domain.csproj",
-      "msbuildProject": "../Teste_Playmove.Domain/HouseSoft.Domain.csproj"
+      "path": "../HouseSoft.Domain/HouseSoft.Domain.csproj",
+      "msbuildProject": "../HouseSoft.Domain/HouseSoft.Domain.csproj"
     },
     "HouseSoft.Service/1.0.0": {
       "type": "project",
-      "path": "../Teste_Playmove.Service/HouseSoft.Service.csproj",
-      "msbuildProject": "../Teste_Playmove.Service/HouseSoft.Service.csproj"
+      "path": "../HouseSoft.Service/HouseSoft.Service.csproj",
+      "msbuildProject": "../HouseSoft.Service/HouseSoft.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3439,14 +3439,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\Teste_Playmove.Data\\HouseSoft.Data.csproj": {
-              "projectPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\Teste_Playmove.Data\\HouseSoft.Data.csproj"
+            "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Data\\HouseSoft.Data.csproj": {
+              "projectPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Data\\HouseSoft.Data.csproj"
             },
-            "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\Teste_Playmove.Domain\\HouseSoft.Domain.csproj": {
-              "projectPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\Teste_Playmove.Domain\\HouseSoft.Domain.csproj"
+            "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Domain\\HouseSoft.Domain.csproj": {
+              "projectPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Domain\\HouseSoft.Domain.csproj"
             },
-            "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\Teste_Playmove.Service\\HouseSoft.Service.csproj": {
-              "projectPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\Teste_Playmove.Service\\HouseSoft.Service.csproj"
+            "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Service\\HouseSoft.Service.csproj": {
+              "projectPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Service\\HouseSoft.Service.csproj"
             }
           }
         }

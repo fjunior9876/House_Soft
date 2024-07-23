@@ -17,9 +17,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Teste_Playmove.Data\HouseSoft.Data.csproj" />
-    <ProjectReference Include="..\Teste_Playmove.Domain\HouseSoft.Domain.csproj" />
-    <ProjectReference Include="..\Teste_Playmove.Service\HouseSoft.Service.csproj" />
+    <ProjectReference Include="..\HouseSoft.Data\HouseSoft.Data.csproj" />
+    <ProjectReference Include="..\HouseSoft.Domain\HouseSoft.Domain.csproj" />
+    <ProjectReference Include="..\HouseSoft.Service\HouseSoft.Service.csproj" />
   </ItemGroup>
 
 </Project>

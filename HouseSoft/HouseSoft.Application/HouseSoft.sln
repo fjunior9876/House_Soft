@@ -5,11 +5,11 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseSoft.Application", "HouseSoft.Application.csproj", "{BB239351-A1D2-4E3A-AB2F-F56C4F04EBF5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseSoft.Data", "..\Teste_Playmove.Data\HouseSoft.Data.csproj", "{998B88E1-17D9-49E8-AA7F-6EBBD31F340E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseSoft.Data", "..\HouseSoft.Data\HouseSoft.Data.csproj", "{998B88E1-17D9-49E8-AA7F-6EBBD31F340E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseSoft.Domain", "..\Teste_Playmove.Domain\HouseSoft.Domain.csproj", "{D9068ADC-0284-4373-95BC-DB99E04F1F57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseSoft.Domain", "..\HouseSoft.Domain\HouseSoft.Domain.csproj", "{D9068ADC-0284-4373-95BC-DB99E04F1F57}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseSoft.Service", "..\Teste_Playmove.Service\HouseSoft.Service.csproj", "{A3CF6089-4204-4511-8A6D-65E56C77D4C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseSoft.Service", "..\HouseSoft.Service\HouseSoft.Service.csproj", "{A3CF6089-4204-4511-8A6D-65E56C77D4C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
