@@ -1,0 +1,11 @@
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Domain\bin\Debug\net7.0\HouseSoft.Domain.deps.json
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Domain\bin\Debug\net7.0\HouseSoft.Domain.dll
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Domain\bin\Debug\net7.0\HouseSoft.Domain.pdb
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Domain\obj\Debug\net7.0\HouseSoft.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Domain\obj\Debug\net7.0\HouseSoft.Domain.AssemblyInfoInputs.cache
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Domain\obj\Debug\net7.0\HouseSoft.Domain.AssemblyInfo.cs
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Domain\obj\Debug\net7.0\HouseSoft.Domain.csproj.CoreCompileInputs.cache
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Domain\obj\Debug\net7.0\HouseSoft.Domain.dll
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Domain\obj\Debug\net7.0\refint\HouseSoft.Domain.dll
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Domain\obj\Debug\net7.0\HouseSoft.Domain.pdb
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Domain\obj\Debug\net7.0\ref\HouseSoft.Domain.dll

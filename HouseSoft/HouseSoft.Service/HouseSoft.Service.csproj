@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Teste_Playmove.Data\HouseSoft.Data.csproj" />
+    <ProjectReference Include="..\Teste_Playmove.Domain\HouseSoft.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

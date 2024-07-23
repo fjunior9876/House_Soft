@@ -1,0 +1,15 @@
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Data\bin\Release\net7.0\HouseSoft.Data.deps.json
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Data\bin\Release\net7.0\HouseSoft.Data.dll
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Data\bin\Release\net7.0\HouseSoft.Data.pdb
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Data\bin\Release\net7.0\HouseSoft.Domain.dll
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Data\bin\Release\net7.0\HouseSoft.Domain.pdb
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Data\obj\Release\net7.0\HouseSoft.Data.csproj.AssemblyReference.cache
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Data\obj\Release\net7.0\HouseSoft.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Data\obj\Release\net7.0\HouseSoft.Data.AssemblyInfoInputs.cache
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Data\obj\Release\net7.0\HouseSoft.Data.AssemblyInfo.cs
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Data\obj\Release\net7.0\HouseSoft.Data.csproj.CoreCompileInputs.cache
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Data\obj\Release\net7.0\HouseSoft.Data.csproj.CopyComplete
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Data\obj\Release\net7.0\HouseSoft.Data.dll
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Data\obj\Release\net7.0\refint\HouseSoft.Data.dll
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Data\obj\Release\net7.0\HouseSoft.Data.pdb
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Data\obj\Release\net7.0\ref\HouseSoft.Data.dll

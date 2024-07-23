@@ -1,0 +1,17 @@
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Service\bin\Release\net7.0\HouseSoft.Service.deps.json
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Service\bin\Release\net7.0\HouseSoft.Service.dll
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Service\bin\Release\net7.0\HouseSoft.Service.pdb
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Service\bin\Release\net7.0\HouseSoft.Data.dll
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Service\bin\Release\net7.0\HouseSoft.Domain.dll
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Service\bin\Release\net7.0\HouseSoft.Data.pdb
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Service\bin\Release\net7.0\HouseSoft.Domain.pdb
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Service\obj\Release\net7.0\HouseSoft.Service.csproj.AssemblyReference.cache
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Service\obj\Release\net7.0\HouseSoft.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Service\obj\Release\net7.0\HouseSoft.Service.AssemblyInfoInputs.cache
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Service\obj\Release\net7.0\HouseSoft.Service.AssemblyInfo.cs
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Service\obj\Release\net7.0\HouseSoft.Service.csproj.CoreCompileInputs.cache
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Service\obj\Release\net7.0\HouseSoft.Service.csproj.CopyComplete
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Service\obj\Release\net7.0\HouseSoft.Service.dll
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Service\obj\Release\net7.0\refint\HouseSoft.Service.dll
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Service\obj\Release\net7.0\HouseSoft.Service.pdb
+D:\Dados\fjunior\Desktop\Sql\HouseSoft\House_Soft\HouseSoft\Teste_Playmove.Service\obj\Release\net7.0\ref\HouseSoft.Service.dll
