@@ -1,16 +1,16 @@
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /src
 
-# Copie os arquivos de projeto para os respectivos diretórios
+# Copia os arquivos de projeto para os respectivos diretÃ³rios
 COPY HouseSoft.Application/HouseSoft.Application.csproj HouseSoft.Application/
 COPY HouseSoft.Data/HouseSoft.Data.csproj HouseSoft.Data/
 COPY HouseSoft.Domain/HouseSoft.Domain.csproj HouseSoft.Domain/
 COPY HouseSoft.Service/HouseSoft.Service.csproj HouseSoft.Service/
 
-# Restaure as dependências do projeto
+# Restaura as dependÃªncias do projeto
 RUN dotnet restore HouseSoft.Application/HouseSoft.Application.csproj
 
-# Copie o restante dos arquivos do projeto e publique o projeto
+# Copia o restante dos arquivos do projeto e publica o projeto
 COPY . .
 WORKDIR /src/HouseSoft.Application
 RUN dotnet publish HouseSoft.Application.csproj -c release -o /app
