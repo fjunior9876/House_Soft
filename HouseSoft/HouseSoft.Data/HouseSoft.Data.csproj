@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Teste_Playmove.Domain\HouseSoft.Domain.csproj" />
+    <ProjectReference Include="..\HouseSoft.Domain\HouseSoft.Domain.csproj" />
   </ItemGroup>
 
 </Project>

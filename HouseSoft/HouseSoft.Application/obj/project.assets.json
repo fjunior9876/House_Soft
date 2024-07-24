@@ -3415,11 +3415,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Application\\HouseSoft.Application.csproj",
+      "projectUniqueName": "C:\\House_Soft\\HouseSoft\\HouseSoft.Application\\HouseSoft.Application.csproj",
       "projectName": "HouseSoft.Application",
-      "projectPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Application\\HouseSoft.Application.csproj",
+      "projectPath": "C:\\House_Soft\\HouseSoft\\HouseSoft.Application\\HouseSoft.Application.csproj",
       "packagesPath": "C:\\Users\\fjunior\\.nuget\\packages\\",
-      "outputPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Application\\obj\\",
+      "outputPath": "C:\\House_Soft\\HouseSoft\\HouseSoft.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3439,14 +3439,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Data\\HouseSoft.Data.csproj": {
-              "projectPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Data\\HouseSoft.Data.csproj"
+            "C:\\House_Soft\\HouseSoft\\HouseSoft.Data\\HouseSoft.Data.csproj": {
+              "projectPath": "C:\\House_Soft\\HouseSoft\\HouseSoft.Data\\HouseSoft.Data.csproj"
             },
-            "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Domain\\HouseSoft.Domain.csproj": {
-              "projectPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Domain\\HouseSoft.Domain.csproj"
+            "C:\\House_Soft\\HouseSoft\\HouseSoft.Domain\\HouseSoft.Domain.csproj": {
+              "projectPath": "C:\\House_Soft\\HouseSoft\\HouseSoft.Domain\\HouseSoft.Domain.csproj"
             },
-            "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Service\\HouseSoft.Service.csproj": {
-              "projectPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Service\\HouseSoft.Service.csproj"
+            "C:\\House_Soft\\HouseSoft\\HouseSoft.Service\\HouseSoft.Service.csproj": {
+              "projectPath": "C:\\House_Soft\\HouseSoft\\HouseSoft.Service\\HouseSoft.Service.csproj"
             }
           }
         }

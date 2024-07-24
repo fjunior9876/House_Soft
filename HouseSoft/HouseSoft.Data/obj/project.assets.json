@@ -2891,8 +2891,8 @@
     },
     "HouseSoft.Domain/1.0.0": {
       "type": "project",
-      "path": "../Teste_Playmove.Domain/HouseSoft.Domain.csproj",
-      "msbuildProject": "../Teste_Playmove.Domain/HouseSoft.Domain.csproj"
+      "path": "../HouseSoft.Domain/HouseSoft.Domain.csproj",
+      "msbuildProject": "../HouseSoft.Domain/HouseSoft.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2913,11 +2913,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Data\\HouseSoft.Data.csproj",
+      "projectUniqueName": "C:\\House_Soft\\HouseSoft\\HouseSoft.Data\\HouseSoft.Data.csproj",
       "projectName": "HouseSoft.Data",
-      "projectPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Data\\HouseSoft.Data.csproj",
+      "projectPath": "C:\\House_Soft\\HouseSoft\\HouseSoft.Data\\HouseSoft.Data.csproj",
       "packagesPath": "C:\\Users\\fjunior\\.nuget\\packages\\",
-      "outputPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Data\\obj\\",
+      "outputPath": "C:\\House_Soft\\HouseSoft\\HouseSoft.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2937,8 +2937,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\Teste_Playmove.Domain\\HouseSoft.Domain.csproj": {
-              "projectPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\Teste_Playmove.Domain\\HouseSoft.Domain.csproj"
+            "C:\\House_Soft\\HouseSoft\\HouseSoft.Domain\\HouseSoft.Domain.csproj": {
+              "projectPath": "C:\\House_Soft\\HouseSoft\\HouseSoft.Domain\\HouseSoft.Domain.csproj"
             }
           }
         }

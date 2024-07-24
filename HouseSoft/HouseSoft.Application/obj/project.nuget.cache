@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R3umuH43XiCi5Kbg0Wc7CmdwDURacDYk8mh6393iwtfHcdXjO1lge/1fQbY1TIdf/HBM/CYj2cgIRgX5bpWNrA==",
+  "dgSpecHash": "7S1esTWKbrX+Tb5YoadxFn8ZU9zXRhBlOcm/7oH93BeFfSfCsHNBFaNKy4SinvM+eKN9ZhN0sN8rO1njOI/O1A==",
   "success": true,
-  "projectFilePath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Application\\HouseSoft.Application.csproj",
+  "projectFilePath": "C:\\House_Soft\\HouseSoft\\HouseSoft.Application\\HouseSoft.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fjunior\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\fjunior\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",

@@ -2910,13 +2910,13 @@
     },
     "HouseSoft.Data/1.0.0": {
       "type": "project",
-      "path": "../Teste_Playmove.Data/HouseSoft.Data.csproj",
-      "msbuildProject": "../Teste_Playmove.Data/HouseSoft.Data.csproj"
+      "path": "../HouseSoft.Data/HouseSoft.Data.csproj",
+      "msbuildProject": "../HouseSoft.Data/HouseSoft.Data.csproj"
     },
     "HouseSoft.Domain/1.0.0": {
       "type": "project",
-      "path": "../Teste_Playmove.Domain/HouseSoft.Domain.csproj",
-      "msbuildProject": "../Teste_Playmove.Domain/HouseSoft.Domain.csproj"
+      "path": "../HouseSoft.Domain/HouseSoft.Domain.csproj",
+      "msbuildProject": "../HouseSoft.Domain/HouseSoft.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2932,11 +2932,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Service\\HouseSoft.Service.csproj",
+      "projectUniqueName": "C:\\House_Soft\\HouseSoft\\HouseSoft.Service\\HouseSoft.Service.csproj",
       "projectName": "HouseSoft.Service",
-      "projectPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Service\\HouseSoft.Service.csproj",
+      "projectPath": "C:\\House_Soft\\HouseSoft\\HouseSoft.Service\\HouseSoft.Service.csproj",
       "packagesPath": "C:\\Users\\fjunior\\.nuget\\packages\\",
-      "outputPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Service\\obj\\",
+      "outputPath": "C:\\House_Soft\\HouseSoft\\HouseSoft.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2956,11 +2956,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\Teste_Playmove.Data\\HouseSoft.Data.csproj": {
-              "projectPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\Teste_Playmove.Data\\HouseSoft.Data.csproj"
+            "C:\\House_Soft\\HouseSoft\\HouseSoft.Data\\HouseSoft.Data.csproj": {
+              "projectPath": "C:\\House_Soft\\HouseSoft\\HouseSoft.Data\\HouseSoft.Data.csproj"
             },
-            "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\Teste_Playmove.Domain\\HouseSoft.Domain.csproj": {
-              "projectPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\Teste_Playmove.Domain\\HouseSoft.Domain.csproj"
+            "C:\\House_Soft\\HouseSoft\\HouseSoft.Domain\\HouseSoft.Domain.csproj": {
+              "projectPath": "C:\\House_Soft\\HouseSoft\\HouseSoft.Domain\\HouseSoft.Domain.csproj"
             }
           }
         }

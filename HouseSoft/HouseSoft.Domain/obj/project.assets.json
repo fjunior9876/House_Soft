@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Domain\\HouseSoft.Domain.csproj",
+      "projectUniqueName": "C:\\House_Soft\\HouseSoft\\HouseSoft.Domain\\HouseSoft.Domain.csproj",
       "projectName": "HouseSoft.Domain",
-      "projectPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Domain\\HouseSoft.Domain.csproj",
+      "projectPath": "C:\\House_Soft\\HouseSoft\\HouseSoft.Domain\\HouseSoft.Domain.csproj",
       "packagesPath": "C:\\Users\\fjunior\\.nuget\\packages\\",
-      "outputPath": "D:\\Dados\\fjunior\\Desktop\\Sql\\HouseSoft\\House_Soft\\HouseSoft\\HouseSoft.Domain\\obj\\",
+      "outputPath": "C:\\House_Soft\\HouseSoft\\HouseSoft.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

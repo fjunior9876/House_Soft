@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Teste_Playmove.Data\HouseSoft.Data.csproj" />
-    <ProjectReference Include="..\Teste_Playmove.Domain\HouseSoft.Domain.csproj" />
+    <ProjectReference Include="..\HouseSoft.Data\HouseSoft.Data.csproj" />
+    <ProjectReference Include="..\HouseSoft.Domain\HouseSoft.Domain.csproj" />
   </ItemGroup>
 
 </Project>
